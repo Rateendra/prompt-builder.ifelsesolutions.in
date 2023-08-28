@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "prompt-builder",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
